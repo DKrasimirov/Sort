@@ -2,6 +2,10 @@ import java.io.*;
 import java.lang.*;
 class Sort
 {
+	//some comment here
+	public void  get(){
+		int a = 0;
+	}
 	public static void main(String args[])throws IOException
 	{
 		int ch;
